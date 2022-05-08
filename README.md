@@ -9,7 +9,7 @@
 <img align="left" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="30px" height="30px" />
 <br>
 
-### Discord & Languages
+<h3 align="center">Discord & Languages</h3>
 <hr>
 <p align="left">
   <img align="left" height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark&hide_border=true&layout=compact" />
