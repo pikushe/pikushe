@@ -7,7 +7,7 @@
 <img align="left" alt="Tailwind" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" width="30px" height="30px" />
 <img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" height="30px" />
 <img align="left" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="30px" height="30px" />
-<hr>
+<br>
 <h3 align="left">Discord & Languages</h3>
 <br>
 <p align="center">
