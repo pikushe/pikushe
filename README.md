@@ -12,7 +12,7 @@
 <h3 align="center">Discord & Languages</h3>
 <hr>
 <p align="left">
-  <img align="left" height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark&hide_border=true&layout=compact" />
+  <img align="left" height=200 width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 
