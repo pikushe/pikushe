@@ -10,6 +10,7 @@
 <br>
 
 ### Discord & Languages
+<hr>
 <p align="left">
   <img align="left" height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark&hide_border=true&layout=compact" />
 </p>
