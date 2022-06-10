@@ -18,6 +18,6 @@
 </p>
 
 
-<a href="https://discord.com/users/852582281112715284">
+<a href="https://discord.com/users/393023003027570688">
     <img src="https://lanyard-profile-readme.vercel.app/api/393023003027570688?bg=1E1E2E&borderRadius=25px" align="right" />
   </a
