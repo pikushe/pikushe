@@ -18,5 +18,6 @@
 </p>
 
 
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/393023003027570688)](https://discord.com/channel/@me/393023003027570688)
+<a href="https://discord.com/users/852582281112715284">
+    <img src="https://lanyard-profile-readme.vercel.app/api/393023003027570688?bg=1E1E2E&borderRadius=25px" align="right" />
+  </a
