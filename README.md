@@ -17,4 +17,4 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&count_private=true&hide=stars,commits,prs,issues,contribs" alt="pikushe" />
 
-![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)
+![counter](https://profile-counter.glitch.me/{pikushe}/count.svg)
