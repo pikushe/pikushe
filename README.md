@@ -35,5 +35,5 @@
     <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/spotify-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
 </div>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=jl2k77wsib12rlqe83uluoafz&cover_image=true&theme=default" />
 </div>
