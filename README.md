@@ -15,6 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&count_private=true&hide=stars,commits,prs,issues,contribs" alt="pikushe" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark" alt="pikushe" />
 
 ![counter](https://profile-counter.glitch.me/{pikushe}/count.svg)
