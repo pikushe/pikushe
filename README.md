@@ -31,9 +31,9 @@
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
     <a href="https://www.reddit.com/user/p1kushe" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/reddit-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="https://stackoverflow.com/users/19690584/pikushe?tab=profile" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/stack-overflow-stackoverflow-apps-platform-512.png" width="30px" heigth= "30px" /></a>
-    [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+   
     <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/spotify-apps-platform-512.png" width="30px" heigth= "30px" /></a>
     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
 </div>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=jl2k77wsib12rlqe83uluoafz&cover_image=true&theme=default" />
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pikushe)
 </div>
