@@ -15,11 +15,6 @@
 <p align="left">
   <img align="left" height=250 width=395 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark&hide_border=true&layout=compact" />
 </p>
-
-
-<a href="https://discord.com/users/393023003027570688">
-    <img src="https://lanyard-profile-readme.vercel.app/api/331878061954039808?bg=1E1E2E&borderRadius=25px" align="right" />
-  </a
   
   <div align="center">
  <div>
