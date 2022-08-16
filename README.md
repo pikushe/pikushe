@@ -2,7 +2,6 @@
 
 <p>I'm currently a software developer at <strong><a href="https://stalk.gg/">Stalk.gg</a></strong>. I'm working on some side projects, learning a few new frameworks and trying to conquer the world in 2023 as Turkey.</p>
 <p><a href="https://stackoverflow.com/users/19690584/pikushe"><img src="https://img.shields.io/badge/-@Pikushe-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=StackOverFlow&amp;link=https://stackoverflow.com/users/19690584/pikushe" alt="Stackoverflow Badge"></a> <a href="https://www.linkedin.com/in/pikushe/"><img src="https://img.shields.io/badge/-@pikushe-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/pikushe/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz"><img src="https://img.shields.io/badge/-@pikushe-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz" alt="Spotify Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
