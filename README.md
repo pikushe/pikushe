@@ -16,4 +16,3 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikushe&theme=dark" alt="pikushe" />
 
-![counter](https://profile-counter.glitch.me/{pikushe}/count.svg)
