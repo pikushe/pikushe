@@ -1,8 +1,4 @@
 <h2>Hey 👋, I'm <a href="https://stalk.gg/">Pikushe</a></h2>
-
-<p>I'm currently a software developer at <strong><a href="https://stalk.gg/">Stalk.gg</a></strong>. I'm working on some side projects, learning a few new frameworks and trying to conquer the world in 2023 as Turkey.</p>
-<p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
