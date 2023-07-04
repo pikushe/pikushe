@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm <a href="https://stalk.gg/">Pikushe</a></h2>
+<h4 align="center">Hi, I'm Arda, an 18-year-old enthusiast with a curious mind and an insatiable thirst for knowledge. I find great joy in exploring new subjects, diving deep into various disciplines, and expanding my horizons. Learning is not just a means to an end for me; it's a lifelong adventure that fuels my growth.</h4>
 <h2 align="center">🚀 Some Tools I Use</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
