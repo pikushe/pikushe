@@ -29,3 +29,5 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 
 <img align="left" width="40%" src="https://count.getloli.com/get/@:pikushe?theme=asoul"> 
+
+<img align="center" src="https://luppufy-api.onrender.com/spotify/331878061954039808">
