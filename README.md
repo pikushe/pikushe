@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
 </p>
 
-<img width="37%" align="right" src="https://luppufy-api.onrender.com/member/331878061954039808">
+<img width="37%" align="right" src="https://lanyard.kyrie25.me/api/331878061954039808?decoration=true&gradient=c92222-5e1717-4a1212-1c0606&useDisplayName=true&animationDuration=10s&waveColor=c92222&imgStyle=circle&imgBorderRadius=54px&bg=DD272700&idleMessage=Pikushe+%3C3">
 <div align="left" width="100%">
 
 <h2 align="center">⚡ Social media</h2>
@@ -30,4 +30,3 @@
 
 <img align="left" width="40%" src="https://count.getloli.com/get/@:pikushe?theme=asoul"> 
 
-<img align="center" src="https://luppufy-api.onrender.com/spotify/331878061954039808">
