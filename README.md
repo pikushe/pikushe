@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="tailwind" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
 </p>
 
-<img width="37%" align="right" src="https://lanyard.kyrie25.me/api/331878061954039808?decoration=true&gradient=c92222-5e1717-4a1212-1c0606&useDisplayName=true&animationDuration=10s&waveColor=c92222&imgStyle=circle&imgBorderRadius=54px&bg=DD272700&idleMessage=Pikushe+%3C3">
+<img width="37%" align="right" href="https://discord.com/users/331878061954039808" src="https://lanyard.kyrie25.me/api/331878061954039808?decoration=true&gradient=c92222-5e1717-4a1212-1c0606&useDisplayName=true&animationDuration=10s&waveColor=c92222&imgStyle=circle&imgBorderRadius=54px&bg=DD272700&idleMessage=Pikushe+%3C3">
 <div align="left" width="100%">
 
 <h2 align="center">⚡ Social media</h2>
