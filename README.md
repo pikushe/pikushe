@@ -26,7 +26,7 @@
  <a href="https://www.instagram.com/a.ardagli/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Instagram%20-white.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
 <p>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 
-<img align="left" width="40%" src="https://count.getloli.com/get/@:pikushe?theme=asoul"> 
+<img align="left" width="45%" src="https://count.getloli.com/get/@:pikushe?theme=asoul"> 
 
