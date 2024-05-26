@@ -20,7 +20,7 @@
 <img width="37%" align="right" href="https://discord.com/users/331878061954039808" src="https://lanyard.kyrie25.me/api/331878061954039808?decoration=true&gradient=c92222-5e1717-4a1212-1c0606&useDisplayName=true&animationDuration=10s&waveColor=c92222&imgStyle=circle&imgBorderRadius=54px&bg=DD272700&idleMessage=Pikushe+%3C3">
 <div align="left" width="100%">
 
-<h2 align="center">⚡ Social media</h2>
+<h3 align="center">⚡ Social media</h3>
 <p align="center">
   <a href="https://discord.gg/KWbngZrbjZ" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-white.svg?&style=for-the-badge&style-white&logo=discord&logoColor=black"></a>
   <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz?si=7ca234a333c24469" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-white.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
