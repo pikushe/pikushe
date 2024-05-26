@@ -13,6 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40" />
 </p>
 
 <img width="37%" align="right" href="https://discord.com/users/331878061954039808" src="https://lanyard.kyrie25.me/api/331878061954039808?decoration=true&gradient=c92222-5e1717-4a1212-1c0606&useDisplayName=true&animationDuration=10s&waveColor=c92222&imgStyle=circle&imgBorderRadius=54px&bg=DD272700&idleMessage=Pikushe+%3C3">
