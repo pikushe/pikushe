@@ -25,11 +25,7 @@
   <a href="https://discord.gg/KWbngZrbjZ" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-white.svg?&style=for-the-badge&style-white&logo=discord&logoColor=black"></a>
   <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz?si=7ca234a333c24469" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-white.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
   <a href="https://twitter.com/pikushe" target"blank_"><img width="15%" src="https://img.shields.io/badge/Twitter%20-white.svg?&style=for-the-badge&style-white&logo=twitter&logoColor=black"></a>
-  <a href="https://www.threads.net/@a.ardagli" target"blank_"><img width="15%" src="https://img.shields.io/badge/Threads%20-white.svg?&style=for-the-badge&style-white&logo=threads&logoColor=black"></a>
  <a href="https://www.instagram.com/a.ardagli/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Instagram%20-white.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
 <p>
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-
-<img align="left" width="45%" src="https://count.getloli.com/get/@:pikushe?theme=asoul"> 
-
