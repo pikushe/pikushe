@@ -18,7 +18,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
 </p>
 
-<img width="37%" align="right" href="https://discord.com/users/331878061954039808" src="https://lanyard.kyrie25.me/api/331878061954039808?decoration=true&gradient=c92222-5e1717-4a1212-1c0606&useDisplayName=true&animationDuration=10s&waveColor=c92222&imgStyle=circle&imgBorderRadius=54px&bg=DD272700&idleMessage=Pikushe+%3C3">
 <div align="left" width="100%">
 
 <h3 align="center">⚡ Social media</h3>
@@ -27,5 +26,6 @@
   <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz?si=7ca234a333c24469" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-white.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
  <a href="https://www.instagram.com/a.ardagli/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Instagram%20-white.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
 <p>
-
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+<div align="center">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=pikushe&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+</div>
