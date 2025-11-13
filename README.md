@@ -8,10 +8,10 @@
 
 <div align="left" width="100%">
 
-<h3 align="center">⚡ Social media</h3>
+<h2 align="center">⚡ Social media</h2>
 <p align="center">
-  <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz?si=7ca234a333c24469" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-white.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
- <a href="https://www.instagram.com/a.ardagli/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Instagram%20-white.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
+  <a href="mailto:pikushe.dev@gmail.com" target"blank_"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/jl2k77wsib12rlqe83uluoafz?si=7ca234a333c24469" target"blank_"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <p>
 <div align="center">
   
